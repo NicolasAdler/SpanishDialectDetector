@@ -1,0 +1,7 @@
+torch
+torchvision
+datasets
+Pillow
+numpy
+matplotlib
+scikit-learn
