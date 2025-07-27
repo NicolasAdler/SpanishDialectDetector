@@ -14,7 +14,7 @@ Build a machine learning model that classifies Spanish dialects based on speech 
 ### 1. Data Preprocessing
 - Audio files are read and transformed into spectrograms using the Short-Time Fourier Transform (STFT).
 - The resulting spectrograms are downsampled or resized to 28x28 grayscale images.
-- Each image is labeled according to its dialect region (e.g., Mexican, Argentine, Cuban, etc.).
+- Each image is labeled according to its dialect region (e.g., Mexican, Argentina, Ccolumbian, etc.).
 
 ### 2. Model Architecture
 - A Convolutional Neural Network (CNN) is trained using the spectrogram images.
